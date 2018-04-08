@@ -1,0 +1,24 @@
+{
+  "name": "modul13.9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "babel-standalone": "^6.26.0",
+    "colors": "^1.2.1",
+    "formidable": "^1.2.1",
+    "moment": "^2.21.0",
+    "stat-mode": "^0.2.2"
+  },
+  "devDependencies": {
+    "babel-polyfill": "^6.26.0",
+    "http-server": "^0.11.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
